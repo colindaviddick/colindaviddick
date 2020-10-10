@@ -19,7 +19,6 @@
 <br />
 
 ### Languages and Tools:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
 <img height="32" width="32" align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img height="32" width="32" align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
 <img height="32" width="32" align="left" alt="Dotnet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg"/>
@@ -34,7 +33,7 @@
 <img height="32" width="32" align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 <img height="32" width="32" align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>
 <img height="32" width="32" align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
-
+<br />
 ### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colindaviddick&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br />
