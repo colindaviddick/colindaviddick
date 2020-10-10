@@ -6,9 +6,9 @@
 - I’m looking to collaborate with other coders
 - I am training to run a marathon in 2021
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/1190207391)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/1190207391) -->
 
 ### Connect with me:
 
@@ -27,9 +27,9 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: My GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=colindaviddick&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
