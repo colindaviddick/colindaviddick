@@ -1,16 +1,14 @@
 ### Hi, I'm Colin 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=colindick.com&style=for-the-badge&url=https%3A%2F%2Fwww.colindick.com)](https://www.colindick.com)
 
--  I just launched my first course: [Become A VS Code SuperHero!][course]!
--  I’m looking to collaborate with other content creators
--  2020 Goals: Contribute more to Open Source projects
--  Fun fact: I love to draw and play guitar / drums
+- Currently working on learning frontent development using JS, React and JQuery
+- I’m looking to collaborate with other coders
+- I am training to run a marathon in 2021
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1190207391)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/1190207391)
 
 ### Connect with me:
 
