@@ -40,14 +40,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colindaviddick&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-<br />
-
----
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=colindaviddick&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</details>
 
 [website]: https://www.colindick.com
 [facebook]: https://www.facebook.com/colin.d.dick/
