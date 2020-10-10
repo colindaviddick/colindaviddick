@@ -45,3 +45,6 @@
 
 [website]: https://www.colindick.com
 [facebook]: https://www.facebook.com/colin.d.dick/
+
+### Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1190207391&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
