@@ -6,6 +6,7 @@
 - Currently working on learning frontent development using JS, React and JQuery
 
 #### Outside of coding
+- I enjoy drawing and painting
 - I am training to run a marathon in 2021
 
 <!-- ### Spotify Playing 🎧
