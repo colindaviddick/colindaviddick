@@ -34,15 +34,15 @@
 <img height="32" width="32" align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>
 <img height="32" width="32" align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
 <br />
+
 ### Github Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colindaviddick&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
 
 ---
-
-<details>
-  <summary>:zap: My GitHub Stats</summary>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=colindaviddick&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
