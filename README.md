@@ -1,9 +1,8 @@
 ### Hi, I'm Colin 
 
 ### About Me
-- I started learning coding in 2017
 - I’m looking to collaborate with other coders
-- Currently working on learning frontent development using JS, React and JQuery
+- Currently working on learning frontend development using JS, React and JQuery, and improving css skills.
 
 #### Outside of coding
 - I enjoy drawing and painting
