@@ -2,7 +2,7 @@
 
 ### About Me
 - I’m looking to collaborate with other coders
-- Currently working on learning frontend development using JS, React and JQuery, and improving css skills.
+- Currently working on learning frontend development using JavaScript and React, and improving css skills.
 
 #### Outside of coding
 - I enjoy drawing and painting
