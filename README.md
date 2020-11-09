@@ -29,7 +29,7 @@
 
 <br />
 
-#### I'm currently focussed on learning
+#### I'm currently focused on learning
 <img height="32" width="32" align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 <img height="32" width="32" align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>
 <img height="32" width="32" align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
