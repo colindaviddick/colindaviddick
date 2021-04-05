@@ -2,7 +2,7 @@
 
 ### About Me
 - I’m looking to collaborate with other coders
-- Currently working on learning frontend development using JavaScript and React, and improving css skills.
+- Currently working on learning web development using MERN stack.
 
 #### Outside of coding
 - I enjoy drawing and painting
@@ -31,11 +31,11 @@
 
 #### I'm currently focused on learning
 <img height="32" width="32" align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
-<img height="32" width="32" align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg"/>
-<img height="32" width="32" align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"/>
-<img height="32" width="32" align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg"/>
+<img height="32" width="32" align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg"/>
+<img height="32" width="32" align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"/>
+<img height="32" width="32" align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg"/>
 <img height="32" width="32" align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
-<img height="32" width="32" align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nodemon.svg"/>
+<img height="32" width="32" align="left" alt="Nodemon" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nodemon.svg"/>
 <br />
 
 
