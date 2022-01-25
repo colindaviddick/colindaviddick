@@ -6,7 +6,7 @@
 
 #### Outside of coding
 - I enjoy drawing and painting
-- I am training to run a marathon in 2021
+- I am training to run a marathon in 2022
 
 <!-- ### Spotify Playing 🎧
 
