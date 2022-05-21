@@ -4,8 +4,7 @@
 - I’m looking to collaborate with other coders
 - Currently working on learning web development using MERN stack.
 
-#### Outside of coding
-I enjoy: 
+#### Outside of coding I enjoy: 
 - Drawing
 - Boardgames
 - Gigs
