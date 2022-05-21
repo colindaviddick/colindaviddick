@@ -5,8 +5,11 @@
 - Currently working on learning web development using MERN stack.
 
 #### Outside of coding
-- I enjoy drawing and painting
-- I am training to run a marathon in 2022
+I enjoy: 
+- Drawing
+- Boardgames
+- Gigs
+- Stand up comedy
 
 <!-- ### Spotify Playing 🎧
 
